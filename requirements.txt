@@ -2,4 +2,4 @@ pandas
 numpy
 matplotlib
 seaborn
-# Add other libraries like scikit-learn, sqlalchemy, psycopg2-binary, flask, dash, etc., if used.
+sqlalchemy
